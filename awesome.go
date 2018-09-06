@@ -2,6 +2,6 @@ package awesome
 
 import "fmt"
 
-func printMessage() {
+func PrintMessage() {
 	fmt.Println("This is awesome V1.")
 }
