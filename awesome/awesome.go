@@ -3,5 +3,5 @@ package awesome
 import "fmt"
 
 func PrintMessage() {
-	fmt.Println("This is awesome V1.")
+	fmt.Println("This is awesome V2.")
 }
